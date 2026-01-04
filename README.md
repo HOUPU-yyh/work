@@ -133,16 +133,4 @@ main.py
 3. 对于大数据集，适当调整`--events`参数
 4. 可视化功能需要matplotlib和pandas库支持
 
-版本信息
---------
-- 重构版本: 1.0.0
-- 原文件: clean_dataset.py
-- 重构日期: 2025-12-26
 
-作者
-----
-BESIII Track Analysis Team
-
-许可证
-------
-MIT License
